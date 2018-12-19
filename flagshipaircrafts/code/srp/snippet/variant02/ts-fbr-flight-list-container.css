@@ -1,0 +1,12 @@
+.stylise {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.icon {
+    font-family: Iconography;
+    font-style: normal;
+    padding-left: 4px;
+    font-size: 10px;
+}

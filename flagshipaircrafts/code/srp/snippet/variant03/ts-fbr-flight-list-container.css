@@ -1,0 +1,19 @@
+.stylise {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.icon {
+    font-family: Iconography;
+    font-style: normal;
+    padding-left: 4px;
+    font-size: 10px;
+}
+
+.planetype {
+    color: #666666;
+}
+
+.ts-fip__header {
+    display: none;
+}

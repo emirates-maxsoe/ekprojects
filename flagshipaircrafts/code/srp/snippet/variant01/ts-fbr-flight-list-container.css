@@ -1,0 +1,13 @@
+#rptBoundResult_ctl01_ctrlFlightModalContainer_ctl01_spAircraftType .gamechanger {/* font: normal normal normal 110% heroic-condensed-medium-oblique,"Pathway Gothic One",Helvetica,Arial,sans-serif!important; */text-transform: uppercase;font-weight: bold;font-style: italic;}
+
+.stylise {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.icon {
+    font-family: Iconography;
+    font-style: normal;
+    padding-left: 4px;
+    font-size: 10px;
+}

@@ -1,0 +1,26 @@
+.stylise {
+    /* font-style: italic; */
+    /* font-weight: bold; */
+    font-family: Emirates-Bold;
+    /* font-size: 16px; */
+}
+
+.icon {
+    font-family: Iconography;
+    font-style: normal;
+    padding-left: 4px;
+    font-size: 10px;
+}
+
+.planetype {
+    color: #666666;
+    display: none;
+}
+
+.ts-fip__header {
+    display: none;
+}
+
+.flightcode {
+    color: #666666;
+}
