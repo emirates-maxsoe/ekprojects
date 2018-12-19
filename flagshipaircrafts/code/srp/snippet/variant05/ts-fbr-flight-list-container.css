@@ -2,7 +2,7 @@
     /* font-style: italic; */
     /* font-weight: bold; */
     font-family: Emirates-Bold;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .icon {
@@ -23,23 +23,4 @@
 
 .flightcode {
     color: #666666;
-}
-
-p {}
-
-
-.cheat {
-    position: absolute;
-    left: 80px;
-    background: white;
-    padding: 19px;
-    top: -30px;
-    font-size: 16px;
-    /* padding-right: 127px; */
-    padding-left: 10px;
-    padding-right: 214px;
-}
-
-.cheat .icon {
-    font-size: 14px;
 }
